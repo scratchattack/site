@@ -1,5 +1,6 @@
 # ⚠ WARNING ⚠
 Github, please do not ban me. This is only for educational purposes. Trust 🙏🙏
+Oh, and also thanks to Scratch for the icon.
 
 # Instructions
 To open application, please follow these steps:
