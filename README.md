@@ -12,3 +12,9 @@ https://www.python.org/downloads/
 5. Press a little play icon at the top right of your screen.
 
 And there you have it, you now have ran the program!
+Or if you dont want to follow all those steps, you can run it as a .exe file.
+Just disable "Real Time Protection" on your PC, and then double click the exe.
+If it says "Windows is Protecting your PC", just click "More Info" and then
+click "Run Anyway".
+
+I know that sounds really suspicious but the stupid Windows says its a virus.
