@@ -20,5 +20,5 @@ click "Run Anyway".
 I know that sounds really suspicious but the stupid Windows says its a virus.
 
 # Modding
-ATTENTION ALL MODDERS! If you know how to do Python and know how to use
+If you know how to do Python and know how to use
 Scratch Attach, feel free to mod it however you want.
