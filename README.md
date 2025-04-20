@@ -1,3 +1,6 @@
+# ⚠ WARNING ⚠
+Github, please do not ban me. This is only for educational purposes. Trust 🙏🙏
+
 # Instructions
 To open application, please follow these steps:
 1. Please install a IDE, like Visual Studio Code.
